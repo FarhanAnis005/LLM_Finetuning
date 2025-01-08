@@ -1,0 +1,225 @@
+Question: 1
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+You have five numbers 10, 11, 12, 13, and 14. What is the sum of the largest number and the second smallest number?
+
+### Response:
+The answer is 25.
+
+**Explanation:**
+The largest number is 14 and the second smallest number is 12. So, the sum is 14 + 12 = 25.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+
+Question: 2
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Find how many multiples of 4 are less than 30.
+
+### Response:
+Sure, here is the solution:
+
+To find the multiples of 4 that are less than 30, we need to first find the multiples of 4 that are less than or equal to 30. To do this, we can start by dividing 30 by 4. The quotient will be 7, and the remainder will be 2. This means that the multiples of 4 that are less than 30 are 0, 4, 8, 12, 16, 20, 24, 28.
+
+Therefore, the number of multiples of 4 that are less than 30 is 9.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 3
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 0, 3, 4, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The answer is 14.
+
+**Explanation:**
+The smallest two-digit number that can be formed by two of 0, 3, 4, 6, and 8 is 14. Subtracting 7 from 14 results in 7.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 4
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 5, 3, 4, 8, and 2 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The answer is 13.
+
+**Explanation:**
+The smallest two-digit number that can be formed by two of 5, 3, 4, 8, and 2 is 13. Subtracting 7 from 13 results in 6.
+Correct Answer:0
+Correct Reasoning:1
+Helpfulness:0
+
+Question: 5
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Raj came back from a trip to the U.K and exchanged the remaining 140 punds for 14000 rupees in Indian money at the bank today. What is the exchange rate of the Indian Rupees to the British pounds today?
+
+### Response:
+Sure, here is the solution to the problem:
+
+The exchange rate is the rate at which one country's currency is exchanged for another country's currency. So, in order to find the exchange rate, we need to know the value of 1 pound in rupees.
+
+The value of 1 pound in rupees is 80 rupees. Therefore, the exchange rate of the Indian Rupees to the British pounds today is 80 rupees per pound.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 6
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 3, 4, 0, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+The smallest two-digit number that can be formed by two of the given numbers (0, 3, 4, 6, and 8) is 30, because 0 cannot be the first digit of a two-digit number. If this number (30) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 30 - x = 7 Now, we solve for x: x = 30 - 7 x = 23 So, the certain number is 23.
+The smallest two-digit number that can be formed by two of 5, 3, 1, 8, and 9 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The answer is 23 and 7.
+
+The problem is to find the number that was subtracted from the smallest two-digit number that can be formed by two of the given numbers.
+
+The smallest two-digit number that can be formed by two of the given numbers is 30. If 30 is subtracted by a certain number and it became 7, then the certain number is 23.
+
+The answer is 23 and 7.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 7
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Soojeong came back from a trip to the U.S. and exchanged the remaining 140 dollars for 158,760 won in Korean money at the bank today. What is the exchange rate of the Korean Won to the US Dollar today?
+To find the exchange rate of the Korean Won to the US Dollar, we need to divide the amount of Korean Won Soojeong received by the amount of US Dollars she exchanged. So, the exchange rate (KRW/USD) is: 158,760 KRW / 140 USD = 1,134 KRW/USD Therefore, the exchange rate is 1,134 Korean Won to 1 US Dollar.
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Igor came back from a trip to the U.K and exchanged the remaining 140 pounds for 14000 rubles in at the bank today. What is the exchange rate of the Russian Rubles to the British pounds today?
+
+### Response:
+Sure, here is the solution to the problem:
+
+**The exchange rate of the Korean Won to the US Dollar today is 1,134 KRW/USD.**
+
+**The exchange rate of the Russian Rubles to the British Pounds today is not included in the text, therefore I cannot provide the solution for this part.**
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 8
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Danny collects bottle caps. On Monday, he went to the park and found 36 bottle caps but he threw away 45 old ones. On Tuesday, he visited the beach and found another 58 bottle caps, however, he ended up throwing away 30 from his old collection. And then on Wednesday, he went to a concert where he found 80 more bottle caps but he decided to throw away another 70 old ones. After all these, he has 65 bottle caps left. How many more bottle caps did Danny find than those he threw away during these three days?
+
+### Response:
+The information provided in the text includes the number of bottle caps found and thrown away on each day. To find the total number of bottle caps found and thrown away, we need to sum the numbers for each day and subtract the number of bottle caps thrown away.
+
+**Here is the calculation:**
+
+**1. Calculate the total number of bottle caps found:**
+- Monday: 36
+- Tuesday: 58
+- Wednesday: 80
+
+Total number of bottle caps found = 36 + 58 + 80 = 174
+
+**2. Calculate the total number of bottle caps thrown away:**
+- Monday: 45
+- Tuesday: 30
+- Wednesday: 70
+
+Total number of bottle caps thrown away = 45 + 30 + 70 = 145
+
+**3. Subtract the number of bottle caps thrown away from the total number of bottle caps found:**
+
+Number of bottle caps found - Number of bottle caps thrown away = 174 - 145 = 29
+
+Therefore, Danny found a total of 29 more bottle caps than those he threw away during these three days.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+
+Question: 9
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+In a school there are 706 girls and 222 boys. 418 more girls joined the school. The school administration requires maintaining a student-teacher ratio of 20:1. After accommodating the new students, how many teachers should be there in the school now?
+
+### Response:
+**SOLUTION:**
+
+**1. Calculate the total number of students:**
+
+- Total number of students = 706 + 222 + 418 = 1346
+
+**2. Calculate the student-teacher ratio:**
+
+- Student-teacher ratio = 20:1
+
+- To maintain the ratio, the number of teachers should be equal to 20/20 * 1346 = 269
+
+Therefore, the number of teachers required to be hired is 269.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 10
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Milan has two phone lines for his long-distance phone service. For the first phone line, he pays a 3 dollar monthly fee plus 15 cents per minute, and for the second phone line, he pays a 4 dollar monthly fee plus 10 cents per minute. Last month, Milan's total long-distance bill was 56.00 dollars for both lines, and he used the first phone line for 20 more minutes than the second phone line. How many minutes in total was Milan billed for on both lines?
+
+### Response:
+The information provided in the text includes the monthly fees for each phone line, the total bill, and the number of minutes used on each line. To solve this problem, we need to calculate the cost of each phone line separately and then add the two costs together to find the total cost.
+
+**Calculating the cost of the first phone line:**
+
+- Monthly fee = $3
+- Number of minutes used = Unknown
+- Cost per minute = 15 cents
+
+The cost of the first phone line can be calculated as follows:
+
+Cost of first phone line = $3 + 15 cents per minute * number of minutes used
+
+**Calculating the cost of the second phone line:**
+
+- Monthly fee = $4
+- Number of minutes used = Unknown
+- Cost per minute = 10 cents
+
+The cost of the second phone line can be calculated as follows:
+
+Cost of second phone line = $4 + 10 cents per minute * number of minutes used
+
+**Finding the total cost:**
+
+To find the total cost, we need to add the cost of the first phone line and the cost of the second phone line together:
+
+Total cost = Cost of first phone line + Cost of second phone line
+
+**Substituting the values:**
+
+Total cost = $3 + 15 cents per minute * number of minutes used + $4 + 10 cents per minute * number of minutes used
+
+**Solving for the number of minutes used:**
+
+The number of minutes used can be found by solving the above equation for the number of minutes used.
+
+**Therefore, the total number of minutes in total that Milan was billed for on both lines was:**
+
+Total number of minutes used = [Number of minutes used on the first phone line] + [Number of minutes used on the second phone line]
+
+**Note:** This problem requires a significant amount of mathematical reasoning and the ability to solve complex equations.
+Correct Answer:0
+Correct Reasoning:1
+Helpfulness:0
+

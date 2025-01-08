@@ -1,0 +1,177 @@
+Question: 1
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+You have five numbers 10, 11, 12, 13, and 14. What is the sum of the largest number and the second smallest number?
+
+### Response:
+The largest number is 14 and the second smallest number is 11. Therefore, the sum of the largest number and the second smallest number is 14 + 11 = 25.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+
+Question: 2
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Find how many multiples of 4 are less than 30.
+
+### Response:
+To find the number of multiples of 4 less than 30, we need to find the least common multiple (LCM) of 4 and 30.
+
+The least common multiple of 4 and 30 is 12.
+
+So, there are 12 multiples of 4 less than 30: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, and 44.
+
+Therefore, the answer is 12.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 3
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 0, 3, 4, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+Let's use the fact that the smallest two-digit number that can be formed by two of 0, 3, 4, 6, and 8 is 34.
+
+If we subtract a certain number from 34, the result will be 7. Let's call the number we subtract "x".
+
+So, the equation becomes:
+34 - x = 7
+
+To solve for x, we can add 34 to both sides of the equation:
+7 + 34 = x
+
+Now, we can simplify the equation:
+41 = x
+
+Therefore, the number that we subtracted from 34 to get 7 is 41.
+Correct Answer:0
+Correct Reasoning:1
+Helpfulness:0
+
+Question: 4
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 5, 3, 4, 8, and 2 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+Let's start by using the fact that the smallest two-digit number that can be formed by two of 5, 3, 4, 8, and 2 is 25.
+
+If we subtract a certain number from 25, we can find the number that becomes 7.
+
+Let's try subtracting 5 from 25:
+
+25 - 5 = 20
+
+So, the number that becomes 7 when we subtract a certain number from 25 is 20.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 5
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Raj came back from a trip to the U.K and exchanged the remaining 140 pounds for 14000 rupees in Indian money at the bank today. What is the exchange rate of the Indian Rupees to the British pounds today?
+
+### Response:
+The exchange rate is 1 Indian Rupee = 0.014 British Pounds.
+
+To find the exchange rate, we need to divide the number of rupees Raj received by the number of pounds he exchanged. In this case, he received 14000 rupees for 140 pounds, so the exchange rate is 14000/140 = 0.014.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 6
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 3, 4, 0, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+The smallest two-digit number that can be formed by two of the given numbers (0, 3, 4, 6, and 8) is 30, because 0 cannot be the first digit of a two-digit number. If this number (30) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 30 - x = 7 Now, we solve for x: x = 30 - 7 x = 23 So, the certain number is 23.
+The smallest two-digit number that can be formed by two of 5, 3, 1, 8, and 9 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The smallest two-digit number that can be formed by two of the given numbers (5, 3, 1, 8, and 9) is 31, because 5 and 3 can be combined to form 8, and 1 can be combined with 8 to form 9. If this number (31) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 31 - x = 7 Now, we solve for x: x = 31 - 7 x = 24 So, the certain number is 24.
+Correct Answer:0
+Correct Reasoning:1
+Helpfulness:0
+
+Question: 7
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Soojeong came back from a trip to the U.S. and exchanged the remaining 140 dollars for 158,760 won in Korean money at the bank today. What is the exchange rate of the Korean Won to the US Dollar today?
+To find the exchange rate of the Korean Won to the US Dollar, we need to divide the amount of Korean Won Soojeong received by the amount of US Dollars she exchanged. So, the exchange rate (KRW/USD) is: 158,760 KRW / 140 USD = 1,134 KRW/USD Therefore, the exchange rate is 1,134 Korean Won to 1 US Dollar.
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Igor came back from a trip to the U.K and exchanged the remaining 140 pounds for 14000 rubles in at the bank today. What is the exchange rate of the Russian Rubles to the British pounds today?
+
+### Response:
+To find the exchange rate of the Russian Rubles to the British Pounds, we need to divide the amount of Russian Rubles Igor received by the amount of British Pounds he exchanged. So, the exchange rate (RUB/GBP) is: 14000 RUB / 140 GBP = 100 RUB/GBP Therefore, the exchange rate is 100 Russian Rubles to 1 British Pound.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+
+Question: 8
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Danny collects bottle caps. On Monday, he went to the park and found 36 bottle caps but he threw away 45 old ones. On Tuesday, he visited the beach and found another 58 bottle caps, however, he ended up throwing away 30 from his old collection. And then on Wednesday, he went to a concert where he found 80 more bottle caps but he decided to throw away another 70 old ones. After all these, he has 65 bottle caps left. How many more bottle caps did Danny find than those he threw away during these three days?
+
+### Response:
+Danny found a total of 163 bottle caps (Monday + Tuesday + Wednesday). He threw away a total of 140 bottle caps (45 + 30 + 70). So, the difference between the number of bottle caps Danny found and the number he threw away is 23 (163 - 140).
+Correct Answer:0
+Correct Reasoning:2
+Helpfulness:0
+
+Question: 9
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+In a school there are 706 girls and 222 boys. 418 more girls joined the school. The school administration requires maintaining a student-teacher ratio of 20:1. After accommodating the new students, how many teachers should be there in the school now?
+
+### Response:
+To find the number of teachers needed in the school after accommodating the new students, we need to use the student-teacher ratio. The student-teacher ratio is 20:1, which means that for every 20 students, one teacher is required.
+
+So, we need to find the total number of students in the school after the new students joined. The total number of girls in the school is 706 + 418 = 1124 girls. The total number of boys in the school is 222.
+
+Therefore, the total number of students in the school after the new students joined is 1124 + 222 = 1346 students.
+
+To maintain a student-teacher ratio of 20:1, we need to have 20 teachers for every 1346 students. Therefore, the number of teachers needed in the school after accommodating the new students is:
+
+20 / 1346 = 0.15 teachers
+
+So, there should be 15 teachers in the school after accommodating the new students.
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+
+Question: 10
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Milan has two phone lines for his long-distance phone service. For the first phone line, he pays a 3 dollar monthly fee plus 15 cents per minute, and for the second phone line, he pays a 4 dollar monthly fee plus 10 cents per minute. Last month, Milan's total long-distance bill was 56.00 dollars for both lines, and he used the first phone line for 20 more minutes than the second phone line. How many minutes in total was Milan billed for on both lines?
+
+### Response:
+To solve this problem, we need to use the information given in the problem to find the total number of minutes Milan used on both lines. We can start by finding the total cost of the minutes used on each line separately:
+
+For the first line, the cost of 1 minute is 15 cents + 3 dollar = 3.15 dollars. So, the total cost of 20 minutes on the first line is 20 x 0.15 = 3 dollars.
+
+For the second line, the cost of 1 minute is 10 cents + 4 dollar = 4.10 dollars. So, the total cost of 20 minutes on the second line is 20 x 0.10 = 2 dollars.
+
+Now, we add the total cost of the minutes used on each line to find the total cost of the bill:
+
+Total cost of the bill = Cost of minutes on the first line + Cost of minutes on the second line
+= 3 dollars + 2 dollars
+= 5 dollars
+
+Therefore, Milan was billed for a total of 56.00 dollars for both lines, which is equal to 5 dollars per line.
+
+So, Milan used a total of 50 minutes on both lines (20 minutes on the first line + 30 minutes on the second line).
+Correct Answer:0
+Correct Reasoning:0
+Helpfulness:0
+

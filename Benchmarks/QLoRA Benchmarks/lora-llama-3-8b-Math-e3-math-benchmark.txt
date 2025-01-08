@@ -1,0 +1,276 @@
+Question: 1
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+You have five numbers 10, 11, 12, 13, and 14. What is the sum of the largest number and the second smallest number?
+
+### Response:
+The largest number among 10, 11, 12, 13, and 14 is 14.
+The second smallest number is 11.
+
+The sum of the largest number (14) and the second smallest number (11) is:
+
+14 + 11 = 25
+
+So, the sum is 25.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 2
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Find how many multiples of 4 are less than 30.
+
+### Response:
+To find the multiples of 4 that are less than 30, we can start from the smallest multiple of 4 that is greater than 0 and continue until we reach a multiple that is 30 or greater.
+
+The smallest multiple of 4 that is greater than 0 is 4 itself. We can start counting from there:
+
+4, 8, 12, 16, 20, 24, 28
+
+We can see that the last multiple of 4 that is less than 30 is 28. To find out how many multiples there are, we subtract the smallest multiple (4) from the next multiple (30) and then divide by the common difference (4) and add 1:
+
+(30 - 4) / 4 + 1 = 26 / 4 + 1 = 6 + 1 = 7
+
+So, there are 7 multiples of 4 that are less than 30.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 3
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 0, 3, 4, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The smallest two-digit number that can be formed by two of the digits 0, 3, 4, 6, and 8 is 30. 
+
+If we subtract a certain number from 30 and get 7, we can set up the equation:
+
+30 - x = 7
+
+To find the value of x, we subtract 7 from both sides of the equation:
+
+30 - x - 7 = 7 - 7
+30 - x = 0
+
+Now, we add x to both sides to solve for x:
+
+30 + x = 0 + x
+30 = x
+
+So, the number that was subtracted from 30 to get 7 is 30.
+Correct Answer:0
+Correct Reasoning:1
+Helpfulness:0
+_______________________________________________________
+
+
+Question: 4
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 5, 3, 4, 8, and 2 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The smallest two-digit number that can be formed by two of the given digits is 23 (using the digits 2 and 3). 
+
+Let's call the certain number X. According to the problem, when 23 is subtracted by X, the result is 7. We can write this as an equation:
+
+23 - X = 7
+
+To find X, we need to solve for X:
+
+X = 23 - 7
+X = 16
+
+Therefore, the number that was subtracted is 16.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 5
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Raj came back from a trip to the U.K and exchanged the remaining 140 pounds for 14000 rupees in Indian money at the bank today. What is the exchange rate of the Indian Rupees to the British pounds today?
+
+### Response:
+To find the exchange rate, we need to divide the number of rupees Raj received by the number of pounds he exchanged.
+
+Raj exchanged 140 pounds for 14000 rupees.
+
+The exchange rate is therefore:
+
+14000 rupees / 140 pounds = 100 rupees per pound
+
+So, the exchange rate today is 100 Indian Rupees (INR) for 1 British Pound (GBP).
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 6
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The smallest two-digit number that can be formed by two of 3, 4, 0, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+The smallest two-digit number that can be formed by two of the given numbers (0, 3, 4, 6, and 8) is 30, because 0 cannot be the first digit of a two-digit number. If this number (30) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 30 - x = 7 Now, we solve for x: x = 30 - 7 x = 23 So, the certain number is 23.
+The smallest two-digit number that can be formed by two of 5, 3, 1, 8, and 9 is subtracted by a certain number and it became 7. Find the number.
+
+### Response:
+The smallest two-digit number that can be formed by two of the given numbers (1, 3, 5, 8, and 9) is 13, because 1 cannot be the first digit of a two-digit number. If this number (13) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 13 - x = 7 Now, we solve for x: x = 13 - 7 x = 6 So, the certain number is 6.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 7
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Soojeong came back from a trip to the U.S. and exchanged the remaining 140 dollars for 158,760 won in Korean money at the bank today. What is the exchange rate of the Korean Won to the US Dollar today?
+To find the exchange rate of the Korean Won to the US Dollar, we need to divide the amount of Korean Won Soojeong received by the amount of US Dollars she exchanged. So, the exchange rate (KRW/USD) is: 158,760 KRW / 140 USD = 1,134 KRW/USD Therefore, the exchange rate is 1,134 Korean Won to 1 US Dollar.
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Igor came back from a trip to the U.K and exchanged the remaining 140 pounds for 14000 rubles in at the bank today. What is the exchange rate of the Russian Rubles to the British pounds today?
+
+### Response:
+To find the exchange rate of the Russian Rubles to the British Pounds, we need to divide the amount of Russian Rubles Igor received by the amount of British Pounds he exchanged. So, the exchange rate (RUB/GBP) is: 14,000 RUB / 140 GBP = 100 RUB/GBP Therefore, the exchange rate is 100 Russian Rubles to 1 British Pound.
+Correct Answer:75
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 8
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Danny collects bottle caps. On Monday, he went to the park and found 36 bottle caps but he threw away 45 old ones. On Tuesday, he visited the beach and found another 58 bottle caps, however, he ended up throwing away 30 from his old collection. And then on Wednesday, he went to a concert where he found 80 more bottle caps but he decided to throw away another 70 old ones. After all these, he has 65 bottle caps left. How many more bottle caps did Danny find than those he threw away during these three days?
+
+### Response:
+Let's calculate the total number of bottle caps Danny found and the total number he threw away over the three days.
+
+On Monday:
+Found: 36
+Threw away: 45
+
+On Tuesday:
+Found: 58
+Threw away: 30
+
+On Wednesday:
+Found: 80
+Threw away: 70
+
+Now, let's add up all the bottle caps he found:
+36 (Monday) + 58 (Tuesday) + 80 (Wednesday) = 174 bottle caps found
+
+And let's add up all the bottle caps he threw away:
+45 (Monday) + 30 (Tuesday) + 70 (Wednesday) = 145 bottle caps thrown away
+
+Danny has 65 bottle caps left after throwing away 145, so he must have started with:
+65 (left) + 145 (thrown away) = 210 bottle caps in total
+
+Now, let's find out how many more bottle caps he found than he threw away:
+174 (found) - 145 (thrown away) = 29 more bottle caps found than thrown away
+
+So, Danny found 29 more bottle caps than he threw away over the three days.
+Correct Answer:5
+Correct Reasoning:5
+Helpfulness:5
+_______________________________________________________
+
+
+Question: 9
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+In a school there are 706 girls and 222 boys. 418 more girls joined the school. The school administration requires maintaining a student-teacher ratio of 20:1. After accommodating the new students, how many teachers should be there in the school now?
+
+### Response:
+First, let's calculate the total number of students in the school after the new girls joined.
+
+Total girls before = 706
+Total girls after = 706 + 418 = 1124
+
+Total boys before = 222
+Total boys after = 222 (since no new boys joined)
+
+Total students after = Total girls after + Total boys after
+Total students after = 1124 + 222 = 1346
+
+Now, let's calculate the number of teachers required based on the student-teacher ratio of 20:1.
+
+Number of teachers required = Total students after / 20
+Number of teachers required = 1346 / 20
+Number of teachers required = 67
+
+So, after accommodating the new students, the school should have 67 teachers to maintain the required student-teacher ratio.
+Correct Answer:4
+Correct Reasoning:4
+Helpfulness:3
+_______________________________________________________
+
+
+Question: 10
+Generated Response: 
+ You are an expert at solving math word problems
+### Input:
+Milan has two phone lines for his long-distance phone service. For the first phone line, he pays a 3 dollar monthly fee plus 15 cents per minute, and for the second phone line, he pays a 4 dollar monthly fee plus 10 cents per minute. Last month, Milan's total long-distance bill was 56.00 dollars for both lines, and he used the first phone line for 20 more minutes than the second phone line. How many minutes in total was Milan billed for on both lines?
+
+### Response:
+Let's denote the number of minutes Milan used the second phone line as \( x \) minutes. Since he used the first phone line for 20 more minutes than the second, he used it for \( x + 20 \) minutes.
+
+For the first phone line, the total cost is:
+\[ \text{Cost} = \text{Monthly fee} + \text{Minutes used} \times \text{Rate per minute} \]
+\[ \text{Cost} = 3 \text{ dollars} + (x + 20) \times 0.15 \text{ dollars per minute} \]
+
+For the second phone line, the total cost is:
+\[ \text{Cost} = \text{Monthly fee} + \text{Minutes used} \times \text{Rate per minute} \]
+\[ \text{Cost} = 4 \text{ dollars} + x \times 0.10 \text{ dollars per minute} \]
+
+The total cost for both lines is the sum of the costs for each line:
+\[ \text{Total cost} = \text{Cost for first line} + \text{Cost for second line} \]
+\[ \text{Total cost} = (3 + 0.15(x + 20)) + (4 + 0.10x) \]
+
+We know that the total cost for both lines is $56.00, so:
+\[ 56.00 = 3 + 0.15(x + 20) + 4 + 0.10x \]
+
+Now, let's solve for \( x \):
+\[ 56.00 = 7 + 0.15x + 0.15(20) + 0.10x \]
+\[ 56.00 = 7 + 0.15x + 3.00 + 0.10x \]
+\[ 56.00 = 10.00 + 0.25x \]
+
+Subtract 10.00 from both sides:
+\[ 46.00 = 0.25x \]
+
+Now, divide both sides by 0.25 to solve for \( x \):
+\[ x = \frac{46.00}{0.25} \]
+\[ x = 184 \text{ minutes} \]
+
+So, Milan used the second phone line for 184 minutes. Since he used the first phone line for 20 more minutes than the second, he used the first phone line for:
+\[ x + 20 = 184 + 20 = 204 \text{ minutes} \]
+
+Now, let's find the total number of minutes he was billed for on both lines:
+\[ \text{Total minutes} = \text{Minutes used on first line} + \text{Minutes used on second line} \]
+\[ \text{Total minutes} = 204 + 184 \]
+\[ \text{Total minutes} = 388 \text{ minutes} \]
+
+Milan was billed for a total of 388 minutes on both lines.
+Correct Answer:0
+Correct Reasoning:1
+Helpfulness:0
+_______________________________________________________
+
+
