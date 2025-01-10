@@ -1,0 +1,63 @@
+Questions From Training Data
+1Question
+You have five numbers 10, 11, 12, 13, and 14. What is the sum of the largest number and the second smallest number?
+Answer
+The largest number is 14 and the second smallest number is 11. The sum of these two numbers is: 14 + 11 = 25.
+
+2Question
+Find how many multiples of 4 are less than 30.
+Answer
+To find the multiples of 4 that are less than 30, we can start by dividing 30 by 4. 30 ÷ 4 = 7.5 Since we are looking for whole multiples, we take the integer part of the result, which is 7. This means that the largest multiple of 4 that is less than 30 is 4 times 7, which is 28. Now, we list the multiples of 4 up to 28: 4, 8, 12, 16, 20, 24, 28 Counting these, we find that there are 7 multiples of 4 that are less than 30.
+
+3Question
+The smallest two-digit number that can be formed by two of 0, 3, 4, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+Answer
+The smallest two-digit number that can be formed by two of the given numbers (0, 3, 4, 6, and 8) is 30, because 0 cannot be the first digit of a two-digit number. If this number (30) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 30 - x = 7 Now, we solve for x: x = 30 - 7 x = 23 So, the certain number is 23.
+
+
+Questions Similar to Training Data (How well can model generalise when values change) 0 Shot
+4 Question
+The smallest two-digit number that can be formed by two of 5, 3, 4, 8, and 2 is subtracted by a certain number and it became 7. Find the number.
+Answer
+23-7=16
+
+5Question
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Raj came back from a trip to the U.K and exchanged the remaining 140 punds for 14000 rupees in Indian money at the bank today. What is the exchange rate of the Indian Rupees to the British pounds today?
+Answer
+RS100=1 pound
+
+
+Questions Similar to Training Data (How well can model generalise when values change) 1 Shot
+6Question
+The smallest two-digit number that can be formed by two of 3, 4, 0, 6, and 8 is subtracted by a certain number and it became 7. Find the number.
+The smallest two-digit number that can be formed by two of the given numbers (0, 3, 4, 6, and 8) is 30, because 0 cannot be the first digit of a two-digit number. If this number (30) is subtracted by a certain number and it became 7, we can set up the following equation to find the certain number: 30 - x = 7 Now, we solve for x: x = 30 - 7 x = 23 So, the certain number is 23.
+The smallest two-digit number that can be formed by two of 5, 3, 1, 8, and 9 is subtracted by a certain number and it became 7. Find the number.
+Answer
+13-7=6
+
+7Question
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Soojeong came back from a trip to the U.S. and exchanged the remaining 140 dollars for 158,760 won in Korean money at the bank today. What is the exchange rate of the Korean Won to the US Dollar today?
+To find the exchange rate of the Korean Won to the US Dollar, we need to divide the amount of Korean Won Soojeong received by the amount of US Dollars she exchanged. So, the exchange rate (KRW/USD) is: 158,760 KRW / 140 USD = 1,134 KRW/USD Therefore, the exchange rate is 1,134 Korean Won to 1 US Dollar.
+The exchange rate refers to the rate at which one country's currency is exchanged for another country's currency. Igor came back from a trip to the U.K and exchanged the remaining 140 pounds for 14000 rubles in at the bank today. What is the exchange rate of the Russian Rubles to the British pounds today?
+Answer
+RS100=1 pound
+
+
+Questions Outside the training data
+8Question
+Danny collects bottle caps. On Monday, he went to the park and found 36 bottle caps but he threw away 45 old ones. On Tuesday, he visited the beach and found another 58 bottle caps, however, he ended up throwing away 30 from his old collection. And then on Wednesday, he went to a concert where he found 80 more bottle caps but he decided to throw away another 70 old ones. After all these, he has 65 bottle caps left. How many more bottle caps did Danny find than those he threw away during these three days?
+Answer
+Let's calculate the total number of bottle caps Danny found and the total number he threw away over the three days. On Monday, he found 36 and threw away 45. On Tuesday, he found 58 and threw away 30. On Wednesday, he found 80 and threw away 70. Total found = 36 (Monday) + 58 (Tuesday) + 80 (Wednesday) Total found = 174 bottle caps Total thrown away = 45 (Monday) + 30 (Tuesday) + 70 (Wednesday) Total thrown away = 145 bottle caps Now, let's find out how many more bottle caps Danny found than those he threw away. More found than thrown away = Total found - Total thrown away More found than thrown away = 174 - 145 More found than thrown away = 29 bottle caps Danny found 29 more bottle caps than those he threw away during these three days.
+
+9Question
+In a school there are 706 girls and 222 boys. 418 more girls joined the school. The school administration requires maintaining a student-teacher ratio of 20:1. After accommodating the new students, how many teachers should be there in the school now?
+Answer
+First, let's find the total number of students after the new girls join the school. Initially, there are 706 girls and 222 boys, which totals: 706 girls + 222 boys = 928 students 418 more girls join the school, so the new total number of girls is: 706 girls + 418 girls = 1124 girls Now, the total number of students after the new girls join is: 1124 girls + 222 boys = 1346 students The school administration requires maintaining a student-teacher ratio of 20:1. To find out how many teachers are needed for 1346 students, we divide the total number of students by the ratio number for students: 1346 students ÷ 20 students/teacher = 67.3 teachers Since you can't have a fraction of a teacher, the school would need to round up to the nearest whole number to maintain the ratio. Therefore, the school should have 68 teachers to maintain the student-teacher ratio of 20:1.
+
+10Question
+Milan has two phone lines for his long-distance phone service. For the first phone line, he pays a 3 dollar monthly fee plus 15 cents per minute, and for the second phone line, he pays a 4 dollar monthly fee plus 10 cents per minute. Last month, Milan's total long-distance bill was 56.00 dollars for both lines, and he used the first phone line for 20 more minutes than the second phone line. How many minutes in total was Milan billed for on both lines?
+Answer
+Let's denote the number of minutes Milan used the second phone line as \( x \). Since he used the first phone line for 20 more minutes than the second, the number of minutes he used the first phone line is \( x + 20 \). The total cost for the first phone line is the monthly fee plus the cost per minute times the number of minutes, which is \( 3 + 0.15(x + 20) \). The total cost for the second phone line is the monthly fee plus the cost per minute times the number of minutes, which is \( 4 + 0.10x \). The total cost for both lines is the sum of the costs for each line, which is \( 56 \) dollars. So, we have the equation: \( 3 + 0.15(x + 20) + 4 + 0.10x = 56 \) Combining like terms and simplifying, we get: \( 0.15x + 3 + 0.10x + 4 = 56 - 20 \) \( 0.25x + 7 = 36 \) Subtracting 7 from both sides, we get: \( 0.25x = 29 \) Dividing both sides by 0.25, we get: \( x = 29 / 0.25 \) \( x = 116 \) So, Milan used the second phone line for 116 minutes and the first phone line for \( 116 + 20 = 136 \) minutes. The total number of minutes Milan was billed for on both lines is \( 116 + 136 = 252 \) minutes.
+
+
+
