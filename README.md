@@ -1,7 +1,3 @@
-Of course\! Here is a README file for your codebase, summarizing the project based on the research paper you provided.
-
------
-
 # Assessing the Impact of QLoRA Fine-Tuning on Sub-10B LLMs 🚀
 
 This repository contains the code, data, and benchmarks for the research paper: **"Assessing the Impact of QLoRA Fine-Tuning on Sub-10B Parameter LLMs for Reasoning and Fact Recall."**
