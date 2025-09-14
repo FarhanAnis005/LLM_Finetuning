@@ -82,6 +82,4 @@ We selected seven state-of-the-art, sub-10B parameter models, using their 4-bit 
 4.  **Analyze Results**: The raw model outputs are saved in the `Benchmarks/` directory, and the compiled human-rated scores are available in the `Benchmark Data/` spreadsheets.
 
 
-  publisher={Institute of Engineering Management}
-}
-```
+
